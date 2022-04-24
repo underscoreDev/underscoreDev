@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @underscoreDev
-- 👀 I’m interested in React, Redux, Typescript, NodeJs Golang
-- 🌱 I’m currently learning NodeJs, Golang
+- 👋 Hi, I’m Godswill Edet
+- 👀 I’m a Full-Stack JavaScript Developer, proficient in both frontend and Backend Technologies.
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Fullstack Development Projects
 - 📫 How to reach me... Website: https://godswill.tech, Email: godswill@zimmerman.com
 
